@@ -58,7 +58,8 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 }
-.subscribe-button {
+
+.subscribe-button button{
 	background-color: #0277BD;
 	color: #FAFAFA;
 	border-radius: 8px;
