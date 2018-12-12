@@ -58,14 +58,11 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 }
-
-.devto {
-	margin-bottom: -0.20rem;
-}
-
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
+.subscribe-button {
+	background-color: #0277BD;
+	color: #FAFAFA;
+	border-radius: 8px;
+	padding: 10px 32px;
+	text-align: center;
+	font-size: 1.5rem;
 }
